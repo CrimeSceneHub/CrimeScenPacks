@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/0_Scenes/CrimeScene.unity
+    path: Assets/0_Scenes/Einrichtung.unity
     guid: 765438cf549ca2d4cb00c14b1d869add
   m_configObjects: {}
