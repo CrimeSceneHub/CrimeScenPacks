@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2dea9120acc1fe441b3da6525db14dde
+guid: 979b03e588e98eb4887eb22840476491
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -16,7 +16,8 @@ ModelImporter:
     3300002: knifegrip
     4300000: knifegrip
     4300002: knifeblade
-    7400000: knifeblade|knifeblade|Take 001|BaseLayer
+    7400000: Take 001
+    7400002: knifeblade|knifeblade|Take 001|BaseLayer
     9500000: //RootNode
   externalObjects: {}
   materials:
